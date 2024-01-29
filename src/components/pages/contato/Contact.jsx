@@ -19,7 +19,7 @@ class Contact extends React.Component {
                         <a href="https://www.instagra.com/street7ife"><img src="assets/insta.png" alt="" /></a>
                     </div>
                     <div className="box">
-                        <a href="https://www.tiktok.com/street7ife"><img src="assets/tik.png" alt="" /></a>
+                        <a href="https://www.tiktok.com/@street7ife"><img src="assets/tik.png" alt="" /></a>
                     </div>
                     <div className="box">
                         <a href="mailto:street7ife@gmail.com"><img src="assets/gmail.png" alt="" /></a>
